@@ -1,0 +1,8 @@
+﻿  Assembling ..\src\public_var.asm...
+  正在生成代码
+  0 of 30 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+acllib.lib(acllib.obj) : warning LNK4099: 未找到 PDB“acllib.pdb”(使用“acllib.lib(acllib.obj)”或在“C:\wusheng\code\Assembly\Assembly_Game\Release\acllib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Assembly_Game.vcxproj -> C:\wusheng\code\Assembly\Assembly_Game\Release\Assembly_Game.exe

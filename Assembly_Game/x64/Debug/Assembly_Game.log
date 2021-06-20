@@ -1,0 +1,5 @@
+﻿  Assembling ..\src\controller.asm...
+..\src\controller.asm(1): error A2008: syntax error : .
+..\src\controller.asm(2): error A2008: syntax error : .
+..\src\controller.asm(5): fatal error A1000: cannot open file : public_var.inc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml64.exe /c /nologo /Zi /Fo"x64\Debug\controller.obj" /W3 /errorReport:prompt  /Ta..\src\controller.asm”已退出，返回代码为 1。
